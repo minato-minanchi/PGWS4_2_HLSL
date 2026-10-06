@@ -3,7 +3,7 @@
 
 # 結果画像
 
-![第2回の結果](result.png)
+![第2回の結果](C:\Users\minan\Videos\Captures\src - SampleScene - Windows, Mac, Linux - Unity 6.4 (6000.4.9f1) _DX12_ 2026_10_07 8_25_04.png)
 - 工夫した点：xxx
 
 # 進め方
